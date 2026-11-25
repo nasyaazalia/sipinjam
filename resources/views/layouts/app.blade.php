@@ -5,7 +5,7 @@
   <title>@yield('judul', 'Sistem Peminjaman Alat')</title>
 </head>
 <body>
-  <h1>Sistem Peminjaman Alat</h1>
+  <h1>Sistem Peminjaman Alat - Update</h1>
   <hr>
 
   <!-- Tempat di mana halaman lain (create, index, edit, dll) akan dimasukkan -->
