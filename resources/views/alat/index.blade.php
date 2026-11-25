@@ -2,6 +2,7 @@
 @section('judul', 'Daftar Alat - Deploy Latihan 6')
 
 @section('konten')
+<p>Update Latihan 6: Sinkronisasi Git &amp; deploy.sh berhasil.</p>
     <a href="{{ route('alat.create') }}">+ Tambah Alat</a>
 
     @if (session('sukses'))
